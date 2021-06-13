@@ -1,0 +1,16 @@
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.csprojAssemblyReference.cache
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.AssemblyInfoInputs.cache
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.AssemblyInfo.cs
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.csproj.CoreCompileInputs.cache
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.exe
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.deps.json
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.runtimeconfig.json
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.runtimeconfig.dev.json
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.dll
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ref\ConsoleChatServer.dll
+D:\Projects\Network Projects\ConsoleChatServer\bin\Debug\net5.0\ConsoleChatServer.pdb
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.dll
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ref\ConsoleChatServer.dll
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.pdb
+D:\Projects\Network Projects\ConsoleChatServer\obj\Debug\net5.0\ConsoleChatServer.genruntimeconfig.cache
